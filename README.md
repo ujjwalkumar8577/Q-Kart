@@ -21,15 +21,18 @@ TECH STACK
 LIBRARIES USED 
 ❖ AndroidX ❖ Glide ❖ Firebase Realtime Database ❖ Firebase Storage ❖ Firebase Authentication ❖ Google Map API 
 TEAM DETAILS 
-Team Name 
- Debug_Entity123 
-Members 
-➢ Member 1(Leader):- Ujjwal Kumar Reg. No.:-20196019 
+Team Name :
+ Debug_Entity123
  
-➢ Member 2:- Ayush Kanodia Reg. No.:-20195078 
+Team Members: 
+➢ Member 1(Leader):- Ujjwal Kumar Reg. No.:-20196019 (MNNIT Allahabad)
  
-➢ Member 3:- Satyam Raj Reg. No.:-20195067 
+➢ Member 2:- Ayush Kanodia Reg. No.:-20195078 (MNNIT Allahabad)
  
-➢ Member 4:- Naman Gupta Reg. No.:-20196036 
+➢ Member 3:- Satyam Raj Reg. No.:-20195067 (MNNIT Allahabad)
+ 
+➢ Member 4:- Naman Gupta Reg. No.:-20196036 (MNNIT Allahabad)
+
+
 PROJECT GITHUB LINK 
 https://github.com/ujjwalkumar8577/Q-Kart 
