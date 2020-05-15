@@ -1,5 +1,5 @@
 # Q-Kart
-(Your perfect cart in quarantine) 
+(Your perfect cart in quarantine and busy office days ) 
 PROBLEM 
         Locked up in quarantine or busy at work & have no idea how to get groceries and other households? 
 SOLUTION 
