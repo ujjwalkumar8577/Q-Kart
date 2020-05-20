@@ -1,10 +1,10 @@
 # Q-Kart
 (Your perfect cart in quarantine and busy office days ) 
 
-PROBLEM 
+# PROBLEM 
         Locked up in quarantine or busy at work & have no idea how to get groceries and other households? 
         
-SOLUTION 
+# SOLUTION 
 An android platform for home delivery of goods on the same day from nearby shops. It will include two app one for the seller and another for the consumer. This project will also aim to improve business of offline shops which were getting affected from other e-commerce platform. 
 
 Features and Implementation details 
@@ -27,14 +27,14 @@ Future scope and Planning
 We plan to include online payment thereby enabling prepaid orders. 
 It will also help after the lockdown by helping offline shop-owners to move to an online platform and increase their sales and improve customer service. 
 
-TECH STACK 
+# TECH STACK 
 ❖ Programming Language : Java
 ❖ Toolkit : Android Studio
 ❖ SDK : Android SDK
 ❖ Database & Storage : Firebase
 ❖ Github 
 
-LIBRARIES USED 
+# LIBRARIES USED 
 ❖ AndroidX
 ❖ Glide
 ❖ Firebase Realtime Database
@@ -42,7 +42,7 @@ LIBRARIES USED
 ❖ Firebase Authentication
 ❖ Google Map API 
 
-TEAM DETAILS 
+# TEAM DETAILS 
 Team Name :
  Debug_Entity123
  
@@ -59,5 +59,5 @@ Satyam Raj Reg. No.:-20195067 (MNNIT Allahabad)
 ➢ Member 4:-
 Naman Gupta Reg. No.:-20196036 (MNNIT Allahabad)
 
-PROJECT GITHUB LINK 
+# PROJECT GITHUB LINK 
 https://github.com/ujjwalkumar8577/Q-Kart 
